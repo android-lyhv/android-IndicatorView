@@ -1,3 +1,3 @@
-# android-IndicatorView
+# Android IndicatorView
 + Normal indicator
 + Circle indicator
